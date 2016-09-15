@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 node_modules
 bower_components
+=======
+.idea/
+docs/
+coverage/
+node_modules/
+*.gz
+errorShots/
+*.log
+debug.js
+dist/
+>>>>>>> 6e381a0af94c2e13c70cb598ffbb32bf7f061e58
